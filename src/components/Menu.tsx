@@ -24,6 +24,9 @@ export const Menu = () => {
         <NavLink className={isActive} to="/product">
           {t("product")}
         </NavLink>
+        <NavLink className={isActive} to="/service">
+          {t("service")}
+        </NavLink>
       </div>
       <div className="pullRight">
         <select

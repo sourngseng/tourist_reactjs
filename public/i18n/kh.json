@@ -5,6 +5,7 @@
   "Update": "ធ្វើបច្ចុប្បន្នភាព",
   "Close": "បិត",
   "Upload": "បញ្ចូលរូបភាព",
+  "Delete": "លុប",
 
   "title": "ជម្រើសច្រើនភាសា",
   "label": "ជ្រើសរើសភាសាផ្សេង!",
@@ -19,5 +20,6 @@
   "product_id": "លរ",
   "product_qty": "ចំនួន",
   "product_price": "តម្លៃ",
-  "product_image": "រូបភាព"
+  "product_image": "រូបភាព",
+  "service": "សេវាកម្ម"
 }

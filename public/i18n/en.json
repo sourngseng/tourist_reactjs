@@ -5,6 +5,7 @@
   "Update": "Update",
   "Close": "Close",
   "Upload": "Upload",
+  "Delete": "Delete",
 
   "title": "Multi-language app",
   "label": "Select another language!",
@@ -19,5 +20,6 @@
   "product_id": "ID",
   "product_qty": "Qty",
   "product_price": "Price",
-  "product_image": "Image"
+  "product_image": "Image",
+  "service": "Service"
 }

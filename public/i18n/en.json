@@ -1,7 +1,23 @@
 {
-    "title": "Multi-language app",
-    "label": "Select another language!",
-    "about": "About me",
-    "home": "Home",
-    "user": "My name is: {{name}}"
+  "Add": "Add",
+  "Save": "Save",
+  "Edit": "Edit",
+  "Update": "Update",
+  "Close": "Close",
+  "Upload": "Upload",
+
+  "title": "Multi-language app",
+  "label": "Select another language!",
+  "about": "About me",
+  "home": "Home",
+  "user": "My name is: {{name}}",
+  "create": "Create New",
+
+  "product": "Products",
+  "product_name": "Product Name",
+  "product_description": "Product Description",
+  "product_id": "ID",
+  "product_qty": "Qty",
+  "product_price": "Price",
+  "product_image": "Image"
 }

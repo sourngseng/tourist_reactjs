@@ -1,6 +1,6 @@
 export const LANGUAGES = [
-    { label: 'ខ្មែរ', code: 'kh' },
-    { label: 'Spanish', code: 'es' },
-    { label: 'English', code: 'en' },
-    { label: 'Italian', code: 'it' },
-]
+  { label: "ភាសាខ្មែរ", code: "kh" },
+  { label: "English", code: "en" },
+  // { label: 'Spanish', code: 'es' },
+  // { label: 'Italian', code: 'it' },
+];

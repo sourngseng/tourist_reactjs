@@ -1,17 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Hanuman:wght@100;300;400;700;900&display=swap");
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Montserrat';
+  font-family: "Hanuman";
   user-select: none;
 }
 
 body {
   background: #292c2e;
   color: white;
-  font-size: 20px;
+  font-family: "Courier New", Hanuman, monospace;
+  font-size: 16px;
 }
 
 main {
@@ -37,7 +40,7 @@ nav {
   padding: 1em;
 }
 
-nav>div {
+nav > div {
   display: flex;
   gap: 1em;
 }
@@ -54,6 +57,6 @@ nav>div {
 
 nav select {
   font-size: 15px;
-  padding: .3em .5em;
+  padding: 0.3em 0.5em;
   cursor: pointer;
 }

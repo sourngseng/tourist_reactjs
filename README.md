@@ -1,17 +1,6 @@
-# Building a multi-language app with React JS 🌐
+## Laravel Api
 
-Nowadays, creating an app that supports multiple languages is becoming more and more indispensable to reach a wide range of users. So this time, with the help of React we are going to build it.
-
-![devto-eng](https://user-images.githubusercontent.com/65827956/217981078-e86b039a-e7cd-4a8b-9b1e-f95b84bda9c4.png)
-
-&nbsp;
-
-## **Demo app features ⚙️**
-
-1. Change the application language.
-2. Add languages
-
-&nbsp;
+https://techvblogs.com/blog/build-crud-app-with-laravel-9-and-reactjs
 
 ## **Technologies 🧪**
 
@@ -38,6 +27,7 @@ Nowadays, creating an app that supports multiple languages is becoming more and 
 ```
 
 3. Run the project.
+
 ```shell
     npm run dev
 ```
@@ -51,7 +41,6 @@ Nowadays, creating an app that supports multiple languages is becoming more and 
 - 🇲🇽 🔗 https://dev.to/franklin030601/construyendo-una-app-multi-lenguaje-con-react-44n2
 
 - 🇺🇲 🔗 https://dev.to/franklin030601/building-a-multi-language-app-with-react-js-2och
-
 
 &nbsp;
 
